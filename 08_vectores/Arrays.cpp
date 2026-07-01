@@ -17,7 +17,7 @@ int main() {
 	
 	// Imprimir el vector actualizado
 	cout << "Vector actualizado: ";
-	for (int i = 0; i < miVector.size(); ++i) {
+	for (int i = 3; i < miVector.size(); ++i) {
 		cout << miVector[i] << " ";
 	}
 	cout << endl;
